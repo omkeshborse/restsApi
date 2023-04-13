@@ -1,10 +1,9 @@
 # restsApi
 
 
-to run this fill 
+To run this file 
 
 use following cammands
-
 
 npm init 
 npm install express 
